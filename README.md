@@ -8,4 +8,4 @@
 
 ## 영상
 
-![종합설계영상](https://www.youtube.com/watch?v=jQskfUvAjlg)
+[![종합설계영상](http://img.youtube.com/vi/jQskfUvAjlg/0.jpg)](https://www.youtube.com/watch?v=jQskfUvAjlg)
